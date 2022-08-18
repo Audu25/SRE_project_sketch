@@ -65,7 +65,7 @@ def launch_rds_instance():
         EngineVersion="13.5",
         Port=5432,
         MasterUsername="postgres",
-        MasterUserPassword="holyghost123",
+        MasterUserPassword="Abednego123",
         AllocatedStorage=20,
         MultiAZ=False,
         StorageType="gp2",
